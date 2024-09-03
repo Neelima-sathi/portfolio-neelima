@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-image: url("https://raw.githubusercontent.com/arthammounika/weather-app/main/weatherapp/wea.webp");
+    background-size: cover;
+    
+}
+
+#weatherDisplay {
+    margin-top: 20px;
+}
